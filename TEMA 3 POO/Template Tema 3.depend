@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578514038 source:d:\facultate\coding\poo\template tema 3\main.cpp
+	<iostream>
+	<typeinfo>
+	<vector>
+	<set>
+	<iterator>
+
